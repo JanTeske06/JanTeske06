@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Jan! 👋
 
-<!--
-**JanTeske06/JanTeske06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Certified Software Engineer & Python Developer
 
-Here are some ideas to get you started:
+I specialize in building **robust automation tools**, **data parsers**, and **backend logic**. My focus is on writing code that is strictly typed, easy to maintain, and handles edge cases reliably. Unlike "quick fix" scripts, I build systems with engineering precision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏆 Certifications & Verified Skills
+
+I believe in proving skills, not just listing them.
+
+| Certification | Issuer | Focus | Status |
+| :--- | :--- | :--- | :--- |
+| **Software Engineer** | HackerRank | Algorithms, SQL, REST API | ✅ Verified |
+| **Python (Intermediate)** | HackerRank | Standard Library, Scripting | ✅ Verified |
+| **English Proficiency** | EF SET | C1 Advanced  | ✅ Verified |
+
+---
+
+### 🛠️ Tech Stack & Focus
+
+* **Core:** Python 3.x (Expert), CLI Tools, Backend Logic
+* **Data & Parsing:** JSON, XML, Binary/Hex, AST, Pandas, Excel Automation
+* **Quality:** `pytest`, Type Hinting, Clean Code Principles
+* **Methodology:** $O(N)$ Efficiency, Modular Architecture
+
+### 🚀 Featured Project: math_engine
+
+I created **[math_engine](https://github.com/JanTeske06/math_engine)**, a custom expression parsing engine available on PyPI.
+* **Why?** To demonstrate deep logic handling beyond simple regex.
+* **Tech:** Tokenizer, Abstract Syntax Tree (AST), Safe Evaluation.
+
+---
+
+### 📫 Contact
+
+If you need a developer who values **reliability** and **precise communication**, feel free to reach out.
+
+* **Upwork:** [Link to your Upwork Profile]
+* **Location:** Germany (CET Timezone)
