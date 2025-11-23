@@ -1,8 +1,3 @@
-
-
----
-
-
 # Hi, I'm Jan! 👋
 
 ### Certified Software Engineer & Python Developer
