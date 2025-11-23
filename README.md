@@ -33,7 +33,7 @@ I believe in proving skills, not just listing them.
 * **Core:** Python 3.x (Expert), CLI Tools, Backend Logic
 * **Data & Parsing:** JSON, XML, Binary/Hex, AST, Pandas, Excel Automation
 * **Quality:** `pytest`, Type Hinting, Clean Code Principles
-* **Methodology:** $O(N)$ Efficiency, Modular Architecture
+* **Methodology:** O(N) Efficiency, Modular Architecture
 ---
 
 ### 📫 Contact
