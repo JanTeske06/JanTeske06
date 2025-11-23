@@ -1,3 +1,16 @@
+## Pinned Projects
+
+<a href="https://github.com/JanTeske06/math_engine">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanTeske06&repo=math_engine&theme=github_dark&hide_border=true" />
+</a>
+
+<a href="https://github.com/JanTeske06/Python_Calculator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanTeske06&repo=Python_Calculator&theme=github_dark&hide_border=true" />
+</a>
+
+---
+
+
 # Hi, I'm Jan! 👋
 
 ### Certified Software Engineer & Python Developer
