@@ -4,16 +4,7 @@
 
 I specialize in building **robust automation tools**, **data parsers**, and **backend logic**. My focus is on writing code that is strictly typed, easy to maintain, and handles edge cases reliably. Unlike "quick fix" scripts, I build systems with engineering precision.
 
----
-## Pinned Projects
 
-<a href="https://github.com/JanTeske06/math_engine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanTeske06&repo=math_engine&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/JanTeske06/Python_Calculator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JanTeske06&repo=Python_Calculator&theme=github_dark&hide_border=true" />
-</a>
 
 ---
 ### 🏆 Certifications & Verified Skills
